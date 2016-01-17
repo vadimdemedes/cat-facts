@@ -4,6 +4,8 @@
 
 Interesting cat facts
 
+![](http://i.giphy.com/xT77XZrTKOxycjaYvK.gif)
+
 
 ## Installation
 
