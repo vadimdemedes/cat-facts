@@ -1,0 +1,32 @@
+{
+  "name": "cat-facts",
+  "version": "1.0.0",
+  "description": "Interesting cat facts",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "vdemedes/cat-facts",
+  "author": {
+    "name": "Vadim Demedes",
+    "email": "vdemedes@gmail.com",
+    "url": "https://github.com/vdemedes"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+		"cat-facts.json"
+  ],
+  "devDependencies": {
+    "ava": "^0.10.0",
+    "eslint-config-vdemedes": "^1.0.1",
+    "xo": "^0.12.1"
+  },
+  "xo": {
+    "extends": "vdemedes",
+    "env": "node"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
