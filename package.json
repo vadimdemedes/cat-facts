@@ -18,7 +18,7 @@
 		"cat-facts.json"
   ],
   "devDependencies": {
-    "ava": "^0.10.0",
+    "ava": "^0.11.0",
     "eslint-config-vdemedes": "^1.0.1",
     "xo": "^0.12.1"
   },
